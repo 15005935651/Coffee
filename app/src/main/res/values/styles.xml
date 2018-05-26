@@ -1,0 +1,13 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/sign_in_button_color</item>
+        <item name="colorPrimaryDark">@color/sign_in_button_color</item>
+        <item name="colorAccent">@color/sign_in_button_color</item>
+        <item name="colorControlNormal">@color/edit_text_background</item>
+        <item name="colorControlActivated">@color/edit_text_background</item>
+    </style>
+
+</resources>

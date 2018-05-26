@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFFFFF</color>
+    <color name="colorPrimaryDark">#FFFFFF</color>
+    <color name="colorAccent">#FFFFFF</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="sign_in_button_color">#a7a7a7</color>
+    <color name="edit_text_background">#a7a7a7</color>
+    <color name="blue_theme">#00BFFF</color>
+</resources>
